@@ -385,6 +385,8 @@ github.com/felixge/httpsnoop v1.0.1/go.mod h1:m8KPJKqk1gH5J9DgRY2ASl2lWCfGKXixSw
 github.com/felixge/httpsnoop v1.0.3 h1:s/nj+GCswXYzN5v2DpNMuMQYe+0DDwt5WVCU6CWBdXk=
 github.com/felixge/httpsnoop v1.0.3/go.mod h1:m8KPJKqk1gH5J9DgRY2ASl2lWCfGKXixSwevea8zH2U=
 github.com/flowstack/go-jsonschema v0.1.1/go.mod h1:yL7fNggx1o8rm9RlgXv7hTBWxdBM0rVwpMwimd3F3N0=
+github.com/fluxcd-fork/pkg/runtime v0.42.1-0.20231029125909-3205e3eb0806 h1:fmeaoVVOCrnzgMRQNYsqNxBwXtE4beiDVWx9EW0h3gY=
+github.com/fluxcd-fork/pkg/runtime v0.42.1-0.20231029125909-3205e3eb0806/go.mod h1:p6A3xWVV8cKLLQW0N90GehKgGMMmbNYv+OSJ/0qB0vg=
 github.com/fluxcd/gitkit v0.6.0 h1:iNg5LTx6ePo+Pl0ZwqHTAkhbUHxGVSY3YCxCdw7VIFg=
 github.com/fluxcd/gitkit v0.6.0/go.mod h1:svOHuKi0fO9HoawdK4HfHAJJseZDHHjk7I3ihnCIqNo=
 github.com/fluxcd/pkg/apis/acl v0.1.0 h1:EoAl377hDQYL3WqanWCdifauXqXbMyFuK82NnX6pH4Q=
@@ -407,8 +409,6 @@ github.com/fluxcd/pkg/masktoken v0.2.0 h1:HoSPTk4l1fz5Fevs2vVRvZGru33blfMwWSZKsH
 github.com/fluxcd/pkg/masktoken v0.2.0/go.mod h1:EA7GleAHL33kN6kTW06m5R3/Q26IyuGO7Ef/0CtpDI0=
 github.com/fluxcd/pkg/oci v0.31.0 h1:Zpp65vcFJKRfeltuswKztJh2OrB86X3VrA1LU/VjspQ=
 github.com/fluxcd/pkg/oci v0.31.0/go.mod h1:UL7nzm7p3fk5X0ZTsHl3qBhRy/NtuGqFSangXvPKUNw=
-github.com/fluxcd/pkg/runtime v0.42.0 h1:a5DQ/f90YjoHBmiXZUpnp4bDSLORjInbmqP7K11L4uY=
-github.com/fluxcd/pkg/runtime v0.42.0/go.mod h1:p6A3xWVV8cKLLQW0N90GehKgGMMmbNYv+OSJ/0qB0vg=
 github.com/fluxcd/pkg/sourceignore v0.3.5 h1:omcHTH5X5tlPr9w1b9T7WuJTOP+o/KdVdarYb4kgkCU=
 github.com/fluxcd/pkg/sourceignore v0.3.5/go.mod h1:6Xz3jErz8RsidsdrjUBBUGKes24rbdp/F38MnTGibEw=
 github.com/fluxcd/pkg/ssh v0.8.2 h1:WNfvTmnLnOUyXQDb8luSfmn1X0RIuhJBcKMFtKm6YsQ=
